@@ -1,0 +1,19 @@
+{
+  "name": "trashtag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejmason101/trashtag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejmason101/trashtag/issues"
+  },
+  "homepage": "https://github.com/ejmason101/trashtag#readme"
+}
